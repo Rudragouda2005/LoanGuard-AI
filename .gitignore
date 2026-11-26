@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Database (auto-created and seeded on startup)
+data/*.db
+data/*.db-journal
+data/*.sqlite*
+
+# Frontend dependencies and build artifacts (built during Render deploy)
+frontend/node_modules/
+frontend/dist/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.log

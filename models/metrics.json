@@ -1,0 +1,64 @@
+{
+  "best_model": "XGBoost",
+  "dataset_summary": {
+    "total_records": 3200,
+    "legitimate_records": 2496,
+    "synthetic_fraud_records": 704,
+    "train_size": 2496,
+    "test_size": 704,
+    "protected_attributes_excluded": [
+      "gender",
+      "marital_status"
+    ]
+  },
+  "models": [
+    {
+      "model_name": "Logistic Regression",
+      "accuracy": 0.9872,
+      "precision": 0.9803,
+      "recall": 0.9613,
+      "f1_score": 0.9707,
+      "roc_auc": 0.9979,
+      "false_positive_rate": 0.0055,
+      "selection_score": 0.9824,
+      "confusion_matrix": {
+        "tn": 546,
+        "fp": 3,
+        "fn": 6,
+        "tp": 149
+      }
+    },
+    {
+      "model_name": "Random Forest",
+      "accuracy": 0.9972,
+      "precision": 1.0,
+      "recall": 0.9871,
+      "f1_score": 0.9935,
+      "roc_auc": 0.9971,
+      "false_positive_rate": 0.0,
+      "selection_score": 0.9938,
+      "confusion_matrix": {
+        "tn": 549,
+        "fp": 0,
+        "fn": 2,
+        "tp": 153
+      }
+    },
+    {
+      "model_name": "XGBoost",
+      "accuracy": 0.9972,
+      "precision": 1.0,
+      "recall": 0.9871,
+      "f1_score": 0.9935,
+      "roc_auc": 0.9982,
+      "false_positive_rate": 0.0,
+      "selection_score": 0.9942,
+      "confusion_matrix": {
+        "tn": 549,
+        "fp": 0,
+        "fn": 2,
+        "tp": 153
+      }
+    }
+  ]
+}

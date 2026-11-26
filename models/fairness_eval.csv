@@ -1,0 +1,705 @@
+gender,age,employment_type,y_true,y_prob,y_pred
+Male,56,Self-Employed,0,0.00024179097,0
+Male,44,Self-Employed,0,0.017850528,0
+Male,40,Salaried,0,4.2514726e-05,0
+Male,56,Salaried,1,0.99989164,1
+Male,33,Salaried,0,7.3718475e-05,0
+Male,40,Salaried,0,0.00046007516,0
+Female,39,Self-Employed,1,0.9997763,1
+Female,48,Business Owner,1,0.9999341,1
+Male,28,Salaried,0,0.00013713792,0
+Female,30,Self-Employed,0,0.00020847422,0
+Male,24,Salaried,0,7.8083925e-05,0
+Female,34,Salaried,0,0.0015783492,0
+Male,31,Salaried,1,0.99968934,1
+Female,63,Salaried,0,0.0039189127,0
+Female,51,Salaried,0,5.02179e-05,0
+Male,53,Salaried,0,0.0013321578,0
+Male,42,Contract,0,0.008849763,0
+Male,24,Salaried,0,0.00023511991,0
+Female,55,Self-Employed,0,0.00019068841,0
+Male,57,Self-Employed,0,0.000668451,0
+Male,42,Salaried,1,0.999806,1
+Female,64,Salaried,0,0.00016980957,0
+Non-Binary,53,Salaried,1,0.99959534,1
+Female,55,Contract,0,0.001962615,0
+Female,43,Salaried,1,0.999907,1
+Male,27,Salaried,1,0.9998357,1
+Female,55,Contract,1,0.9998641,1
+Female,40,Contract,1,0.9998826,1
+Male,34,Business Owner,0,0.00014586007,0
+Male,29,Salaried,0,0.00027662012,0
+Female,48,Salaried,0,5.9526315e-05,0
+Non-Binary,55,Salaried,0,0.00014966648,0
+Male,28,Self-Employed,1,0.99869543,1
+Female,33,Salaried,0,6.035099e-05,0
+Female,45,Business Owner,0,0.00013579307,0
+Female,54,Self-Employed,0,0.009441782,0
+Male,38,Business Owner,1,0.99990785,1
+Female,22,Salaried,0,0.00014199995,0
+Male,49,Salaried,0,0.0001599133,0
+Female,47,Contract,0,0.0012581989,0
+Male,26,Contract,0,9.66802e-05,0
+Male,28,Unemployed,1,0.9998548,1
+Female,32,Self-Employed,0,0.00016753496,0
+Female,32,Salaried,0,7.852111e-05,0
+Non-Binary,24,Self-Employed,1,0.99992585,1
+Male,30,Self-Employed,0,3.717426e-05,0
+Male,60,Salaried,0,0.00013080846,0
+Male,37,Salaried,0,0.00014488034,0
+Male,35,Contract,0,0.00018066511,0
+Male,48,Salaried,0,0.00026829247,0
+Female,57,Salaried,1,0.998823,1
+Non-Binary,58,Salaried,0,0.0005637251,0
+Male,28,Self-Employed,0,0.00016336747,0
+Female,26,Self-Employed,1,0.99991345,1
+Female,32,Salaried,0,0.00010229088,0
+Female,38,Self-Employed,1,0.99854064,1
+Male,24,Salaried,0,0.00026249347,0
+Female,53,Salaried,0,0.00029059994,0
+Male,51,Self-Employed,0,0.00046287526,0
+Female,28,Salaried,0,0.00011219643,0
+Male,61,Self-Employed,0,0.0019388758,0
+Male,51,Salaried,0,0.022391504,0
+Male,64,Self-Employed,0,8.47998e-05,0
+Female,52,Business Owner,1,0.69111663,1
+Female,53,Self-Employed,0,0.00013464259,0
+Male,41,Salaried,1,0.99993193,1
+Female,31,Salaried,0,0.00012493574,0
+Female,36,Contract,0,0.00019768089,0
+Male,58,Self-Employed,0,0.0003535712,0
+Female,40,Unemployed,1,0.99904746,1
+Female,26,Salaried,0,0.00015257545,0
+Female,40,Salaried,0,0.000100494886,0
+Female,34,Salaried,0,8.918173e-05,0
+Female,45,Self-Employed,0,0.0011913038,0
+Female,53,Self-Employed,0,0.00023770213,0
+Female,45,Salaried,0,0.009761939,0
+Male,25,Salaried,0,0.013457642,0
+Male,49,Salaried,1,0.99984527,1
+Female,52,Salaried,0,0.000107147884,0
+Female,40,Salaried,0,0.00015975755,0
+Female,52,Self-Employed,1,0.98253953,1
+Male,47,Salaried,0,0.00032921328,0
+Male,41,Salaried,0,0.0001317821,0
+Female,43,Self-Employed,1,0.99973387,1
+Male,42,Salaried,1,0.9994178,1
+Male,54,Salaried,0,0.00020732192,0
+Male,39,Salaried,0,0.00024352895,0
+Male,33,Salaried,0,0.00010204235,0
+Male,57,Salaried,0,0.0005328331,0
+Female,53,Self-Employed,0,0.00020146716,0
+Male,40,Salaried,0,7.1576105e-05,0
+Female,37,Business Owner,1,0.99989724,1
+Female,55,Salaried,0,0.00024444083,0
+Female,44,Self-Employed,0,0.0005671889,0
+Male,49,Salaried,0,5.402144e-05,0
+Female,44,Self-Employed,0,0.00011030835,0
+Female,49,Salaried,0,0.00032352406,0
+Male,53,Salaried,0,5.7798352e-05,0
+Female,61,Business Owner,0,0.028910685,0
+Female,49,Salaried,0,0.00028918704,0
+Female,35,Salaried,0,9.966528e-05,0
+Female,39,Self-Employed,0,9.4399045e-05,0
+Male,64,Salaried,0,0.00036384977,0
+Male,55,Contract,0,0.00051662646,0
+Female,59,Self-Employed,0,0.00024247987,0
+Female,28,Business Owner,0,8.383368e-05,0
+Male,60,Contract,0,0.0021486927,0
+Female,59,Salaried,0,8.266647e-05,0
+Male,38,Business Owner,0,0.00040597745,0
+Female,47,Salaried,1,0.9999021,1
+Female,22,Unemployed,1,0.9999125,1
+Male,55,Self-Employed,0,0.00091198913,0
+Female,29,Salaried,1,0.9994029,1
+Female,63,Salaried,0,0.00013635127,0
+Male,56,Contract,1,0.99963474,1
+Male,27,Salaried,1,0.99986184,1
+Non-Binary,46,Contract,0,0.00064953725,0
+Male,26,Salaried,0,8.357913e-05,0
+Male,30,Salaried,1,0.9998896,1
+Female,35,Salaried,0,0.002899323,0
+Female,29,Salaried,0,0.000109920264,0
+Female,26,Self-Employed,0,0.0005127657,0
+Male,63,Salaried,0,8.1358725e-05,0
+Female,34,Business Owner,0,0.00011776121,0
+Female,64,Salaried,0,0.0030555904,0
+Male,64,Salaried,0,8.3709936e-05,0
+Female,29,Salaried,0,8.461361e-05,0
+Male,25,Salaried,0,0.00010574451,0
+Female,29,Salaried,0,6.4642365e-05,0
+Female,25,Salaried,1,0.9997888,1
+Female,37,Salaried,0,6.15633e-05,0
+Male,55,Salaried,0,5.2249376e-05,0
+Male,47,Self-Employed,1,0.9994469,1
+Male,58,Self-Employed,0,8.532673e-05,0
+Male,29,Self-Employed,0,0.00041418165,0
+Male,64,Salaried,0,0.000118978875,0
+Female,55,Business Owner,1,0.99984276,1
+Male,58,Salaried,0,0.00072274887,0
+Female,33,Salaried,0,0.000108557055,0
+Female,30,Self-Employed,1,0.9994618,1
+Male,53,Self-Employed,0,6.73606e-05,0
+Male,58,Salaried,0,0.00029779488,0
+Female,55,Self-Employed,0,0.00050586724,0
+Female,63,Business Owner,0,8.501582e-05,0
+Female,33,Self-Employed,0,7.1422284e-05,0
+Female,22,Salaried,0,6.960343e-05,0
+Female,22,Business Owner,0,0.0005612086,0
+Female,40,Salaried,0,3.431267e-05,0
+Male,45,Contract,0,0.00018574059,0
+Male,43,Business Owner,0,0.00029883525,0
+Female,45,Salaried,0,0.0003463424,0
+Male,50,Salaried,0,0.00030301732,0
+Female,36,Salaried,0,0.00010471739,0
+Male,56,Salaried,0,0.00025434644,0
+Female,22,Self-Employed,0,0.00016428066,0
+Female,26,Self-Employed,0,0.00030551956,0
+Female,23,Salaried,0,0.00015171386,0
+Female,44,Self-Employed,1,0.9999186,1
+Male,23,Salaried,0,0.0008251372,0
+Female,56,Salaried,0,0.00015184772,0
+Male,24,Self-Employed,1,0.99981445,1
+Female,51,Salaried,1,0.9978377,1
+Male,57,Salaried,0,0.0012626473,0
+Male,44,Salaried,0,0.00046086547,0
+Male,29,Business Owner,0,7.651573e-05,0
+Female,36,Salaried,0,0.00015936211,0
+Male,42,Salaried,0,0.0008488808,0
+Male,31,Self-Employed,1,0.99990165,1
+Female,54,Self-Employed,0,0.000109735935,0
+Female,47,Unemployed,1,0.998161,1
+Female,55,Salaried,0,8.6169755e-05,0
+Male,36,Business Owner,0,0.00017503081,0
+Female,30,Self-Employed,1,0.99813133,1
+Male,34,Self-Employed,1,0.99799687,1
+Male,35,Salaried,0,0.00029053263,0
+Non-Binary,36,Salaried,0,0.00054943206,0
+Male,44,Self-Employed,1,0.00042810885,0
+Female,62,Self-Employed,0,0.0032419702,0
+Male,27,Salaried,0,0.00026659173,0
+Female,42,Salaried,0,0.00014920266,0
+Female,53,Salaried,0,8.314248e-05,0
+Male,33,Self-Employed,1,0.99774987,1
+Male,47,Salaried,0,3.864216e-05,0
+Male,51,Business Owner,1,0.9999156,1
+Female,45,Salaried,0,0.00050369935,0
+Male,33,Self-Employed,1,0.9997683,1
+Female,26,Salaried,0,4.71423e-05,0
+Female,45,Business Owner,0,0.00019780286,0
+Female,27,Business Owner,1,0.9998323,1
+Female,40,Salaried,0,0.00051761005,0
+Male,64,Self-Employed,0,0.00012377746,0
+Female,31,Salaried,0,0.0009794123,0
+Non-Binary,52,Contract,0,0.0038371817,0
+Male,42,Salaried,0,0.00025693464,0
+Female,25,Salaried,0,5.9512015e-05,0
+Female,39,Salaried,0,0.00020528113,0
+Male,23,Self-Employed,0,0.0056927446,0
+Male,31,Salaried,0,0.00013263318,0
+Male,46,Self-Employed,0,4.7698613e-05,0
+Female,34,Salaried,0,0.00018428169,0
+Female,22,Salaried,0,0.000111442794,0
+Female,53,Contract,0,0.00028540826,0
+Female,48,Self-Employed,1,0.6907693,1
+Male,42,Self-Employed,0,0.0001925208,0
+Male,45,Salaried,0,4.7660556e-05,0
+Female,37,Self-Employed,0,0.00010284868,0
+Female,29,Unemployed,1,0.99989605,1
+Male,25,Salaried,1,0.9998117,1
+Female,35,Salaried,0,0.00016126539,0
+Female,34,Salaried,0,0.00015865044,0
+Female,52,Self-Employed,0,8.907294e-05,0
+Female,62,Salaried,0,9.182351e-05,0
+Male,35,Self-Employed,0,0.00019968307,0
+Male,23,Salaried,0,0.0011588869,0
+Female,43,Contract,0,0.0004373265,0
+Female,58,Salaried,0,0.0053927177,0
+Male,28,Contract,0,0.0003837543,0
+Female,63,Contract,0,0.00084265036,0
+Male,32,Salaried,0,5.293027e-05,0
+Female,23,Business Owner,0,0.00012447234,0
+Male,41,Salaried,0,0.00010808985,0
+Male,35,Salaried,0,0.0001980261,0
+Female,28,Salaried,0,0.00018580542,0
+Female,26,Salaried,1,0.99978715,1
+Non-Binary,39,Salaried,0,0.0005957559,0
+Female,62,Self-Employed,0,0.00049373414,0
+Male,41,Salaried,0,0.00017624398,0
+Non-Binary,25,Business Owner,0,7.509982e-05,0
+Male,36,Contract,0,0.003452104,0
+Male,27,Contract,0,0.0004173852,0
+Female,44,Salaried,1,0.9838667,1
+Male,44,Self-Employed,0,0.002008596,0
+Male,32,Salaried,0,0.00011283299,0
+Female,32,Self-Employed,1,0.9999106,1
+Non-Binary,27,Business Owner,1,0.9995982,1
+Male,27,Salaried,0,0.00017542747,0
+Non-Binary,45,Salaried,0,9.47748e-05,0
+Female,42,Salaried,1,0.99982774,1
+Male,26,Contract,0,0.000102554775,0
+Male,55,Salaried,0,6.039181e-05,0
+Male,36,Salaried,1,0.99863833,1
+Female,61,Business Owner,0,0.00013843073,0
+Male,56,Salaried,0,0.00039275008,0
+Male,55,Salaried,0,0.00010650257,0
+Female,35,Business Owner,0,8.8682995e-05,0
+Male,43,Business Owner,0,7.058197e-05,0
+Female,34,Business Owner,1,0.9991103,1
+Male,34,Self-Employed,0,0.0012435605,0
+Male,24,Self-Employed,1,0.9999229,1
+Male,52,Salaried,0,5.5834265e-05,0
+Female,54,Self-Employed,0,0.00018076936,0
+Female,61,Self-Employed,0,0.00011432061,0
+Female,35,Salaried,1,0.9999145,1
+Male,34,Salaried,0,0.117379665,0
+Female,45,Business Owner,1,0.9999368,1
+Female,47,Contract,0,0.00013562835,0
+Female,23,Contract,1,0.99912006,1
+Female,61,Salaried,0,0.0002107325,0
+Female,28,Salaried,0,0.00019263355,0
+Non-Binary,35,Salaried,0,0.00051711936,0
+Female,60,Self-Employed,0,0.00012857655,0
+Female,34,Salaried,0,0.00023898038,0
+Male,51,Salaried,0,0.001161702,0
+Non-Binary,47,Business Owner,0,0.0004902619,0
+Male,60,Salaried,0,0.00015724168,0
+Male,41,Salaried,0,0.00027008902,0
+Female,25,Salaried,1,0.9998894,1
+Female,34,Self-Employed,0,0.0002705372,0
+Female,53,Salaried,0,0.007961864,0
+Female,53,Salaried,1,0.9998266,1
+Male,37,Business Owner,1,0.9924418,1
+Male,28,Self-Employed,0,0.00023509054,0
+Male,25,Self-Employed,1,0.9998,1
+Female,34,Contract,0,0.00013031955,0
+Female,42,Salaried,0,0.00018296472,0
+Female,56,Self-Employed,1,0.8190354,1
+Male,42,Salaried,0,0.0003465338,0
+Male,56,Salaried,0,0.00010367334,0
+Male,51,Unemployed,1,0.9999542,1
+Male,56,Contract,0,0.000214781,0
+Non-Binary,27,Contract,0,0.00017295919,0
+Male,55,Self-Employed,0,8.837629e-05,0
+Male,22,Self-Employed,0,0.00015636253,0
+Female,42,Self-Employed,1,0.99954695,1
+Female,32,Self-Employed,0,0.00037590973,0
+Female,49,Business Owner,0,0.0017237525,0
+Female,52,Salaried,0,9.570752e-05,0
+Female,62,Contract,0,0.000110363275,0
+Female,47,Self-Employed,1,0.99180603,1
+Male,54,Salaried,0,0.00015475246,0
+Male,53,Self-Employed,0,0.0003222478,0
+Male,50,Salaried,0,0.0008068698,0
+Male,52,Salaried,1,0.8604769,1
+Male,64,Business Owner,0,0.00026821138,0
+Female,38,Business Owner,0,0.0014619248,0
+Female,29,Self-Employed,0,0.00036377,0
+Female,32,Salaried,0,0.00021449613,0
+Female,58,Salaried,0,0.00019971619,0
+Male,49,Salaried,0,4.224105e-05,0
+Male,64,Salaried,0,7.393249e-05,0
+Non-Binary,41,Unemployed,1,0.99988616,1
+Female,36,Self-Employed,0,0.0014270975,0
+Male,29,Salaried,0,6.0512633e-05,0
+Female,28,Self-Employed,1,0.999813,1
+Female,56,Salaried,0,0.00015562685,0
+Male,51,Salaried,0,7.265869e-05,0
+Male,39,Salaried,1,0.99990034,1
+Male,24,Business Owner,0,0.00031209918,0
+Female,40,Salaried,0,0.0001082646,0
+Male,59,Salaried,0,0.0010633183,0
+Male,53,Salaried,0,8.0511454e-05,0
+Non-Binary,28,Salaried,0,9.488024e-05,0
+Non-Binary,33,Salaried,0,0.00010684772,0
+Male,43,Self-Employed,0,0.0010310516,0
+Female,56,Salaried,1,0.999798,1
+Male,40,Business Owner,1,0.9997503,1
+Male,33,Salaried,1,0.9999249,1
+Female,27,Self-Employed,1,0.99971277,1
+Male,22,Salaried,0,0.00039856118,0
+Male,37,Salaried,1,0.9997156,1
+Female,50,Salaried,0,0.009381217,0
+Male,46,Salaried,0,0.00016812836,0
+Male,22,Self-Employed,0,0.0014182802,0
+Male,23,Business Owner,0,0.00027494287,0
+Female,31,Self-Employed,1,0.99956006,1
+Male,24,Salaried,0,0.0006044011,0
+Female,43,Self-Employed,0,0.00019839217,0
+Male,52,Salaried,0,0.0001595572,0
+Female,61,Salaried,0,0.0024732032,0
+Male,44,Business Owner,0,0.0005944649,0
+Male,39,Self-Employed,0,5.4142944e-05,0
+Male,52,Salaried,0,0.000121080906,0
+Female,45,Salaried,0,0.0001007142,0
+Female,35,Business Owner,0,7.186253e-05,0
+Male,62,Salaried,0,0.00043682317,0
+Male,52,Self-Employed,1,0.99991953,1
+Male,46,Salaried,0,0.00028626205,0
+Female,32,Self-Employed,0,0.0004883238,0
+Male,40,Salaried,0,0.00035623633,0
+Male,34,Salaried,0,0.00011523373,0
+Female,36,Contract,1,0.99994254,1
+Male,41,Salaried,0,4.605153e-05,0
+Female,23,Self-Employed,1,0.99833006,1
+Male,27,Self-Employed,1,0.9998437,1
+Male,58,Salaried,0,4.578905e-05,0
+Male,46,Salaried,0,0.0013379323,0
+Female,43,Salaried,0,0.0032613967,0
+Non-Binary,53,Salaried,0,0.0015637752,0
+Female,33,Salaried,0,0.000149228,0
+Female,59,Salaried,0,0.00016736827,0
+Male,44,Self-Employed,0,0.0012714209,0
+Female,42,Salaried,1,0.9997856,1
+Male,23,Salaried,0,0.00020390062,0
+Female,39,Salaried,0,5.852939e-05,0
+Male,32,Self-Employed,0,0.00015523158,0
+Female,44,Business Owner,0,0.0001706354,0
+Male,58,Salaried,0,9.5851006e-05,0
+Male,48,Salaried,1,0.99980265,1
+Male,38,Self-Employed,1,0.9999496,1
+Male,29,Salaried,0,5.7702255e-05,0
+Male,45,Salaried,0,8.175622e-05,0
+Male,43,Salaried,0,7.2298244e-05,0
+Male,39,Salaried,0,0.00085086847,0
+Female,53,Salaried,0,0.0002652313,0
+Male,37,Self-Employed,1,0.9989826,1
+Male,37,Salaried,1,0.9997181,1
+Male,29,Salaried,0,0.002337431,0
+Male,48,Self-Employed,0,0.0005238286,0
+Male,45,Salaried,0,5.5741693e-05,0
+Male,30,Salaried,0,5.044959e-05,0
+Male,52,Salaried,0,0.00024388841,0
+Male,31,Self-Employed,1,0.9998591,1
+Female,54,Contract,0,8.552851e-05,0
+Female,55,Salaried,0,4.2302443e-05,0
+Male,41,Salaried,0,4.7583395e-05,0
+Male,42,Salaried,0,0.0001628179,0
+Male,37,Salaried,1,0.662084,1
+Female,48,Contract,0,8.2677114e-05,0
+Female,54,Business Owner,0,0.019978639,0
+Male,27,Self-Employed,0,0.00013728249,0
+Male,42,Business Owner,0,0.00048352423,0
+Female,48,Self-Employed,1,0.9995915,1
+Male,50,Salaried,0,0.00019837533,0
+Female,43,Salaried,0,0.00014852035,0
+Male,26,Salaried,0,0.00032529098,0
+Male,24,Unemployed,1,0.999858,1
+Male,26,Business Owner,1,0.9997594,1
+Female,62,Contract,0,0.0014024917,0
+Female,61,Salaried,0,6.3311854e-05,0
+Female,45,Salaried,0,8.513354e-05,0
+Male,28,Self-Employed,0,0.00015794148,0
+Female,60,Business Owner,0,0.0030220442,0
+Non-Binary,27,Salaried,0,8.897413e-05,0
+Male,53,Salaried,0,8.541033e-05,0
+Male,29,Contract,1,0.9999068,1
+Male,31,Salaried,0,5.8442773e-05,0
+Female,58,Business Owner,0,5.202405e-05,0
+Female,45,Salaried,0,0.00010574501,0
+Male,58,Business Owner,0,0.0003763644,0
+Male,39,Self-Employed,0,9.3196664e-05,0
+Male,47,Unemployed,1,0.99976593,1
+Male,34,Salaried,1,0.9997775,1
+Female,51,Business Owner,1,0.9234592,1
+Male,31,Contract,0,0.00013184673,0
+Female,61,Salaried,0,0.0015582986,0
+Female,28,Self-Employed,0,0.019183319,0
+Male,41,Salaried,0,8.304604e-05,0
+Male,38,Salaried,0,7.477667e-05,0
+Female,54,Salaried,0,0.0008350206,0
+Female,59,Salaried,0,0.0005299334,0
+Male,40,Salaried,0,5.0444683e-05,0
+Female,48,Salaried,1,0.99990773,1
+Female,61,Salaried,0,0.0006013649,0
+Female,36,Salaried,1,0.9998933,1
+Male,22,Salaried,0,8.680728e-05,0
+Female,55,Self-Employed,1,0.9966486,1
+Male,43,Business Owner,0,0.0002391242,0
+Male,34,Business Owner,1,0.99978656,1
+Female,45,Business Owner,1,0.9489573,1
+Female,34,Business Owner,1,0.99981064,1
+Male,22,Business Owner,0,0.0003896065,0
+Male,23,Salaried,0,0.000108323155,0
+Male,37,Salaried,1,0.9993773,1
+Female,29,Salaried,1,0.9998764,1
+Female,29,Salaried,0,0.00032269268,0
+Female,62,Business Owner,0,0.00030327917,0
+Male,49,Business Owner,0,0.00012146542,0
+Female,56,Contract,0,0.00012487882,0
+Male,46,Salaried,0,0.0025551077,0
+Female,34,Self-Employed,0,5.276331e-05,0
+Male,35,Unemployed,1,0.9995196,1
+Male,34,Salaried,0,0.00054239976,0
+Male,42,Self-Employed,0,0.0017088107,0
+Female,28,Salaried,0,7.838824e-05,0
+Female,40,Salaried,1,0.99989974,1
+Female,43,Salaried,0,0.0029728536,0
+Female,53,Contract,0,5.7472484e-05,0
+Male,61,Salaried,0,0.00019010909,0
+Male,29,Business Owner,0,0.000106391526,0
+Male,34,Salaried,0,0.00016939719,0
+Male,56,Salaried,0,0.00010169517,0
+Female,32,Salaried,0,0.0003599222,0
+Male,53,Salaried,0,0.00043702582,0
+Female,31,Salaried,0,7.367448e-05,0
+Male,27,Business Owner,0,0.00014564284,0
+Male,43,Salaried,0,0.00043831498,0
+Female,41,Salaried,0,0.00029016944,0
+Female,37,Salaried,0,4.8632148e-05,0
+Male,42,Unemployed,1,0.9999087,1
+Female,53,Self-Employed,0,8.7274915e-05,0
+Male,41,Business Owner,0,0.0038278585,0
+Male,62,Business Owner,0,0.0012351808,0
+Female,47,Self-Employed,1,0.6378825,1
+Female,47,Salaried,0,0.00012235927,0
+Male,47,Salaried,0,0.00013974571,0
+Female,30,Self-Employed,0,0.0033141957,0
+Male,27,Salaried,0,0.00015546384,0
+Male,30,Salaried,0,9.144393e-05,0
+Male,44,Business Owner,1,0.9999,1
+Female,26,Business Owner,0,7.9201156e-05,0
+Male,53,Self-Employed,0,6.0791066e-05,0
+Male,35,Salaried,1,0.999688,1
+Female,40,Salaried,1,0.99784815,1
+Female,43,Self-Employed,0,0.0007175916,0
+Female,61,Salaried,0,9.722929e-05,0
+Male,41,Self-Employed,0,0.00095361896,0
+Male,59,Salaried,0,0.00021925864,0
+Female,52,Self-Employed,0,0.00032046504,0
+Male,58,Salaried,0,7.004095e-05,0
+Male,58,Self-Employed,0,0.00016126,0
+Male,30,Salaried,0,6.6987785e-05,0
+Male,64,Salaried,0,9.843393e-05,0
+Non-Binary,26,Self-Employed,1,0.99947304,1
+Male,52,Salaried,0,6.0190745e-05,0
+Female,27,Self-Employed,0,6.768926e-05,0
+Female,58,Salaried,0,0.0020086495,0
+Female,58,Salaried,0,0.0005481735,0
+Female,25,Self-Employed,0,8.020669e-05,0
+Female,35,Self-Employed,0,0.0002525811,0
+Male,33,Self-Employed,0,0.0027894196,0
+Female,36,Contract,1,0.9993137,1
+Male,36,Self-Employed,0,0.00040769533,0
+Female,57,Salaried,0,0.0009358552,0
+Male,34,Salaried,0,6.811903e-05,0
+Male,64,Salaried,0,0.0001265665,0
+Male,30,Salaried,0,0.0002841035,0
+Male,55,Salaried,0,0.0036883925,0
+Female,62,Salaried,0,0.00048049068,0
+Female,26,Salaried,0,0.0047813402,0
+Female,64,Salaried,0,0.00020607478,0
+Female,53,Contract,0,0.0010580684,0
+Male,57,Self-Employed,0,0.0010027341,0
+Male,55,Salaried,0,0.00015120939,0
+Female,47,Salaried,0,0.00055535155,0
+Female,23,Self-Employed,0,0.00056291645,0
+Male,45,Self-Employed,0,0.00016535813,0
+Female,45,Salaried,0,0.003957234,0
+Male,62,Business Owner,0,0.0003577421,0
+Female,39,Salaried,0,8.777151e-05,0
+Male,55,Salaried,0,0.0048324773,0
+Male,39,Salaried,0,0.00010395518,0
+Male,51,Salaried,0,0.002933166,0
+Female,38,Salaried,0,0.00011848118,0
+Male,41,Salaried,0,6.06451e-05,0
+Female,47,Contract,0,0.00033486323,0
+Male,63,Salaried,0,0.0004989887,0
+Male,49,Salaried,0,6.357734e-05,0
+Male,41,Business Owner,0,6.61549e-05,0
+Female,58,Salaried,0,8.285841e-05,0
+Male,46,Business Owner,1,0.9995049,1
+Female,51,Salaried,0,6.293294e-05,0
+Male,46,Self-Employed,0,0.000395711,0
+Female,25,Salaried,0,0.00025692437,0
+Female,62,Salaried,0,0.00026903325,0
+Male,52,Salaried,0,0.00019539057,0
+Female,41,Self-Employed,1,0.9998611,1
+Male,23,Self-Employed,1,0.9995976,1
+Male,49,Salaried,1,0.9998374,1
+Male,49,Salaried,0,0.0008411169,0
+Male,63,Business Owner,0,0.00010700055,0
+Female,23,Salaried,0,0.000111210946,0
+Male,30,Salaried,0,0.00010883856,0
+Male,35,Self-Employed,1,0.9998216,1
+Male,52,Business Owner,0,0.0009445422,0
+Female,47,Salaried,0,7.499905e-05,0
+Male,62,Contract,0,9.957589e-05,0
+Female,25,Business Owner,1,0.99987507,1
+Male,53,Salaried,0,0.00035816594,0
+Female,22,Self-Employed,0,0.00064422784,0
+Female,43,Salaried,0,0.00040110672,0
+Female,41,Self-Employed,0,5.4197237e-05,0
+Male,27,Self-Employed,0,0.023956722,0
+Male,44,Contract,0,0.002129524,0
+Male,51,Salaried,0,0.0004875647,0
+Female,43,Self-Employed,0,0.000101382626,0
+Female,51,Self-Employed,0,0.0020380353,0
+Female,24,Self-Employed,1,0.99985194,1
+Female,30,Business Owner,1,0.9997149,1
+Non-Binary,35,Business Owner,0,5.6204633e-05,0
+Male,40,Self-Employed,0,0.0018928554,0
+Female,24,Contract,0,0.000453507,0
+Female,22,Contract,0,0.00056701404,0
+Male,29,Self-Employed,1,0.99990726,1
+Male,36,Contract,0,0.00013581547,0
+Male,49,Salaried,0,0.0005234383,0
+Male,26,Self-Employed,0,8.989133e-05,0
+Female,25,Contract,1,0.9992111,1
+Female,22,Self-Employed,1,0.99991024,1
+Male,27,Salaried,0,0.00010620147,0
+Male,40,Salaried,0,0.0016610317,0
+Female,52,Salaried,0,0.00096662214,0
+Female,30,Contract,0,8.7565095e-05,0
+Female,62,Self-Employed,0,0.000661834,0
+Female,60,Salaried,0,0.00012723106,0
+Male,37,Salaried,0,0.0009473519,0
+Male,36,Salaried,0,0.00039297985,0
+Female,32,Unemployed,1,0.36083522,0
+Male,61,Self-Employed,0,0.0008776079,0
+Male,41,Unemployed,1,0.99992776,1
+Male,34,Contract,0,0.00026175022,0
+Male,43,Salaried,0,0.00011112689,0
+Female,55,Self-Employed,0,0.000121042365,0
+Non-Binary,46,Salaried,0,0.00031834777,0
+Female,29,Self-Employed,0,7.938013e-05,0
+Male,56,Unemployed,1,0.9998504,1
+Non-Binary,27,Contract,0,0.00012817467,0
+Female,51,Salaried,0,0.00024346927,0
+Female,60,Salaried,0,0.00011775773,0
+Male,50,Contract,0,0.009424629,0
+Female,64,Business Owner,0,0.00023212709,0
+Male,38,Contract,1,0.9998696,1
+Female,26,Salaried,0,0.00011438364,0
+Female,26,Self-Employed,0,8.979546e-05,0
+Female,64,Salaried,0,0.0002156161,0
+Female,32,Salaried,0,8.987719e-05,0
+Female,59,Business Owner,0,9.554283e-05,0
+Female,39,Salaried,0,3.9554347e-05,0
+Male,52,Salaried,0,0.00012666442,0
+Male,61,Business Owner,0,7.662475e-05,0
+Male,49,Salaried,0,4.6730067e-05,0
+Male,53,Salaried,0,0.000102003534,0
+Male,58,Salaried,0,0.00819307,0
+Female,54,Salaried,0,0.0002641066,0
+Male,41,Salaried,0,0.00025111638,0
+Male,47,Self-Employed,1,0.99950874,1
+Female,56,Salaried,0,0.00027942317,0
+Female,27,Salaried,0,0.00012335398,0
+Male,27,Contract,0,0.00014237998,0
+Female,37,Salaried,0,4.871909e-05,0
+Male,29,Self-Employed,1,0.999874,1
+Male,61,Self-Employed,0,0.00037976343,0
+Male,56,Salaried,1,0.9999325,1
+Female,45,Unemployed,1,0.9999045,1
+Male,45,Salaried,0,0.0002292987,0
+Male,62,Self-Employed,0,9.9668614e-05,0
+Female,53,Contract,1,0.9999448,1
+Male,39,Salaried,0,0.00027001073,0
+Female,36,Salaried,0,6.6397784e-05,0
+Female,56,Salaried,0,0.0001564374,0
+Non-Binary,47,Salaried,0,0.0004291154,0
+Male,55,Salaried,0,0.0031941694,0
+Male,60,Salaried,0,0.00020649059,0
+Female,45,Self-Employed,0,0.00024230283,0
+Female,58,Business Owner,0,0.00025558792,0
+Female,58,Salaried,0,0.07525614,0
+Female,23,Salaried,0,0.0010679918,0
+Female,28,Self-Employed,0,0.0002947432,0
+Male,27,Contract,0,0.00020241352,0
+Female,44,Salaried,0,0.0039930404,0
+Female,26,Contract,0,8.4985586e-05,0
+Male,51,Salaried,0,0.0002529959,0
+Non-Binary,37,Self-Employed,0,0.00024706038,0
+Female,57,Self-Employed,1,0.99988925,1
+Male,48,Salaried,1,0.9997409,1
+Female,34,Salaried,0,0.00025936193,0
+Female,43,Salaried,1,0.9999012,1
+Female,61,Business Owner,0,8.174726e-05,0
+Male,59,Salaried,0,0.0001577249,0
+Male,42,Contract,0,0.00027682827,0
+Female,47,Self-Employed,0,0.000106586085,0
+Female,27,Salaried,1,0.999736,1
+Female,45,Salaried,0,0.000107782624,0
+Female,55,Salaried,0,0.00018733565,0
+Female,58,Contract,0,0.0012270521,0
+Male,41,Business Owner,0,0.000114511655,0
+Female,58,Salaried,0,4.9202048e-05,0
+Female,44,Contract,0,0.00015897086,0
+Female,54,Salaried,0,0.0009767667,0
+Female,57,Self-Employed,0,0.00012786851,0
+Male,57,Contract,1,0.99991846,1
+Male,30,Self-Employed,0,8.0661e-05,0
+Female,43,Business Owner,0,0.0016279644,0
+Male,47,Salaried,0,6.489275e-05,0
+Female,57,Salaried,0,0.00014394945,0
+Female,31,Salaried,0,4.883151e-05,0
+Male,42,Self-Employed,0,0.00012278928,0
+Male,29,Contract,1,0.9998191,1
+Male,61,Salaried,0,6.737306e-05,0
+Female,43,Salaried,1,0.9996731,1
+Female,39,Salaried,0,7.251533e-05,0
+Male,41,Self-Employed,1,0.9999107,1
+Female,34,Business Owner,0,0.00025534825,0
+Male,29,Salaried,0,5.2422212e-05,0
+Male,36,Unemployed,1,0.99995553,1
+Female,62,Salaried,0,0.0015470815,0
+Female,25,Self-Employed,0,0.0006663942,0
+Female,39,Contract,0,8.629392e-05,0
+Male,54,Self-Employed,0,8.2888444e-05,0
+Male,26,Self-Employed,0,0.0001092767,0
+Male,21,Self-Employed,1,0.99770075,1
+Male,57,Self-Employed,0,0.00044202228,0
+Female,40,Business Owner,0,0.007340109,0
+Female,59,Self-Employed,0,0.0027026436,0
+Female,32,Business Owner,0,0.0004402301,0
+Female,62,Salaried,0,0.027914861,0
+Male,47,Salaried,0,0.00035649573,0
+Female,63,Self-Employed,0,0.00032329067,0
+Male,27,Self-Employed,0,0.00017893598,0
+Male,64,Contract,0,5.6285193e-05,0
+Female,27,Self-Employed,0,7.119326e-05,0
+Female,27,Salaried,0,7.080457e-05,0
+Male,36,Contract,0,0.00018083624,0
+Female,27,Self-Employed,0,8.046947e-05,0
+Female,58,Salaried,0,0.0009448837,0
+Female,22,Salaried,0,0.00047753216,0
+Male,28,Salaried,0,0.00087272294,0
+Female,40,Unemployed,1,0.9999145,1
+Female,42,Self-Employed,0,0.00025347833,0
+Female,23,Salaried,0,0.00015446292,0
+Female,45,Salaried,0,9.673157e-05,0
+Non-Binary,36,Salaried,0,0.00011681782,0
+Female,25,Self-Employed,0,0.00018509351,0
+Male,55,Business Owner,0,0.0012611666,0
+Female,28,Salaried,1,0.9997423,1
+Female,32,Salaried,0,0.002372763,0
+Male,55,Self-Employed,1,0.999894,1
+Male,34,Salaried,0,0.00067560456,0
+Female,40,Self-Employed,0,9.5141986e-05,0
+Female,51,Salaried,1,0.9997466,1
+Female,32,Self-Employed,0,6.9241774e-05,0
+Female,21,Self-Employed,1,0.9998783,1
+Female,35,Salaried,0,4.3321063e-05,0
+Male,35,Salaried,0,0.0068871486,0
+Male,30,Self-Employed,1,0.9998654,1
+Female,28,Salaried,1,0.999869,1
+Male,22,Salaried,1,0.9997255,1
+Male,36,Salaried,1,0.9998355,1
+Male,24,Contract,0,0.0014634299,0
+Male,50,Contract,0,0.00032243558,0
+Male,49,Self-Employed,0,5.6080746e-05,0
+Male,57,Salaried,0,8.663817e-05,0
+Male,22,Contract,0,0.010972258,0
+Female,22,Self-Employed,0,0.0023230829,0
+Male,54,Self-Employed,0,0.00028919478,0
+Male,30,Salaried,0,0.00012261904,0
+Male,43,Contract,0,0.000163239,0
+Female,27,Salaried,0,5.5133893e-05,0
+Female,22,Salaried,1,0.99985945,1
+Female,32,Self-Employed,0,0.0014075796,0
+Male,39,Salaried,0,0.00025672748,0
+Female,62,Salaried,0,0.00015563946,0
+Male,45,Salaried,0,0.00043400162,0
+Male,63,Salaried,0,0.00013368337,0
+Male,23,Salaried,1,0.99985814,1
